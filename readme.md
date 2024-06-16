@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/ValerieCA/">
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
   <h3 align="center">Seatwork 3: Footer & Header</h3>
@@ -15,7 +15,7 @@
 
 <br />
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Seatwork-3)
+![](https://visit-counter.vercel.app/counter.png?page=ValerieCA/WD-Seatwork-3-main)
 
 ---
 
@@ -101,4 +101,5 @@ WD-ProjectName
 
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| W3School | HTML and CSS | https://www.w3schools.com/ |
+| Giphy    | GIF          | https://giphy.com/         |
