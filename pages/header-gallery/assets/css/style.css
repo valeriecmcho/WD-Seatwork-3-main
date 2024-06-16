@@ -1,0 +1,506 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+
+/* First Design */
+
+.S1{
+
+margin-bottom: 5%;
+display: flex;
+flex-direction: row;
+background-color: beige;
+justify-content: space-between;
+}
+
+.S1logo{
+margin: 2%;
+display: flex;
+flex-wrap: wrap;
+
+}
+
+.S1Menu{
+  display: flex;
+  align-items: center;
+  margin-right: 2%;
+  gap:2rem;
+}
+
+.S1Menu a{
+  color: black;
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: 2rem;
+}
+
+.S1logo img{
+height: 10rem;
+width: 10rem;
+}
+
+/* Second Design */
+
+.S2{
+
+
+  margin-bottom: 10%;
+  display: flex;
+  flex-direction: row;
+  background-color: beige;
+  justify-content: space-between;
+  }
+
+  .S2logo{
+  margin: 2%;
+  display: flex;
+  flex-wrap: wrap;
+  
+  }
+
+  .S2Menu{
+    display: flex;
+    align-items: center;
+    margin-right: 2%;
+    gap:2rem;
+  }
+
+  .S2Menu a{
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 2rem;
+  }
+
+  .S2logo img{
+  height: 10rem;
+  width: 10rem;
+  }
+
+  .S2acc{
+    margin-right: 2%;
+    display: flex;
+    align-items: center;
+    gap:2rem;
+  }
+
+  .S2acc a{
+    padding: 2rem;
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 2rem;
+    background-color: skyblue;
+    border-radius: 25%;
+  }
+
+/* Third Design */
+
+.S3{
+
+  margin-bottom: 5%;
+  display: flex;
+  flex-direction: row;
+  background-color: beige;
+  justify-content: center;
+  }
+
+  .S3logo{
+  display: flex;
+  flex-wrap: wrap;
+  
+  }
+
+  .S3Menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:2rem;
+  }
+
+  .S3Menu a{
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 2rem;
+  }
+
+  .S3logo img{
+  height: 10rem;
+  width: 10rem;
+  }
+
+/* Fourth Design */
+
+.S4{
+
+  margin-bottom: 5%;
+  display: flex;
+  flex-direction: column;
+  background-color: beige;
+  justify-content: center;
+  }
+  .S4Top{
+  display: flex;
+  justify-content: center;
+  }
+
+.S4Lower{
+    display: flex;
+   align-items: center;
+  }
+
+.S4logo{
+  display: flex;
+  flex-wrap: wrap;
+  
+  }
+
+  .S4Menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 2%;
+    gap:2rem;
+    padding-bottom: 2%;
+  }
+
+  .S4Menu a{
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 2rem;
+  }
+
+  .S4logo img{
+  height: 10rem;
+  width: 10rem;
+  }
+
+/* Fifth Design */
+
+.S5{
+
+  margin-bottom: 5%;
+  display: flex;
+  flex-direction: row;
+  background-color: beige;
+  justify-content: space-between;
+  }
+
+  .S5logo{
+  margin: 2%;
+  display: flex;
+  flex-wrap: wrap;
+
+  }
+
+  .S5Menu{
+    display: flex;
+    align-items: center;
+    margin-right: 2%;
+    gap:2rem;
+  }
+
+  .S5Menu a{
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 2rem;
+  }
+
+  .S5logo img{
+  height: 10rem;
+  width: 10rem;
+  }
+
+  .S5Profile img{
+    height: 5rem;
+    width: 5rem;
+  }
+
+/* First Dynamic Design*/
+
+.D1{
+
+  margin-bottom: 5%;
+  display: flex;
+  flex-direction: row;
+  background-color: beige;
+  justify-content: space-between;
+  }
+
+  .D1logo{
+  margin: 2%;
+  display: flex;
+  flex-wrap: wrap;
+
+  }
+
+
+  .D1Menu{
+    display: flex;
+    align-items: center;
+    margin-right: 2%;
+    gap:2rem;
+  }
+
+  .D1Menu a{
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 2rem;
+  }
+
+  .D1Menu a:hover{
+    background-color: skyblue;
+    border-radius: 25%;
+
+  }
+
+  .D1logo img{
+  height: 10rem;
+  width: 10rem;
+  padding: 10px;
+
+  }
+
+  .D1logo img:hover{
+    background-color: skyblue;
+    border-radius: 25%;
+  }
+
+/* Second Dynamic Design*/
+
+.D2{
+
+
+  margin-bottom: 10%;
+  display: flex;
+  flex-direction: row;
+  background-color: beige;
+  justify-content: space-between;
+  }
+
+  .D2logo{
+  margin: 2%;
+  display: flex;
+  flex-wrap: wrap;
+
+  }
+
+  .D2Menu{
+    display: flex;
+    align-items: center;
+    margin-right: 2%;
+    gap:2rem;
+  }
+
+  .D2Menu a{
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 2rem;
+  }
+
+  .D2Menu a:hover{
+    color: skyblue;
+  }
+
+  .D2logo img{
+  height: 10rem;
+  width: 10rem;
+  }
+
+  .D2acc{
+    margin-right: 2%;
+    display: flex;
+    align-items: center;
+    gap:2rem;
+  }
+
+  .D2acc a{
+    padding: 2rem;
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 2rem;
+    background-color: skyblue;
+    border-radius: 25%;
+    transition: transform .2s;
+  }
+
+  .D2acc a:hover{
+    transform: scale(1.5);
+  }
+
+  .D2acc a:active{
+   color: white;
+  }
+
+/* Third Dynamic Design*/
+
+.D3{
+
+  margin-bottom: 5%;
+  display: flex;
+  flex-direction: row;
+  background-color: beige;
+  justify-content: center;
+  }
+
+  .D3logo{
+  display: flex;
+  flex-wrap: wrap;
+  
+  }
+
+  .D3Menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:2rem;
+  }
+
+  .D3Menu a {
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 2rem;
+    transition: transform 0.3s ease;
+}
+
+.D3Menu a:not(:hover) {
+    transform: scale(0.50);
+}
+
+.D3Menu a:hover {
+    transform: scale(1);
+}
+
+  .D3logo img{
+  height: 10rem;
+  width: 10rem;
+  }
+
+
+/* Fourth Dynamic Design*/
+
+.D4{
+
+  margin-bottom: 5%;
+  display: flex;
+  flex-direction: column;
+  background-color: beige;
+  justify-content: center;
+  }
+  .D4Top{
+  display: flex;
+  justify-content: center;
+  }
+
+.D4Lower{
+    display: flex;
+   align-items: center;
+  }
+
+.D4logo{
+  display: flex;
+  flex-wrap: wrap;
+
+  }
+
+  .D4Menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 2%;
+    gap:2rem;
+    padding-bottom: 2%;
+  }
+
+  .D4Menu a{
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 2rem;
+  }
+
+  .D4Menu a:active{
+    color: skyblue;
+  }
+
+  .D4Menu a:focus{
+    color: skyblue;
+  }
+
+  .D4logo img{
+  height: 10rem;
+  width: 10rem;
+  transition: transform .2s;
+  }
+
+  .D4logo img:hover{
+    transform: scale(1.5);
+  }
+
+
+/* Fifth Dynamic Design*/
+
+.D5{
+
+  margin-bottom: 5%;
+  display: flex;
+  flex-direction: row;
+  background-color: beige;
+  justify-content: space-between;
+  }
+
+  .D5logo{
+  margin: 2%;
+  display: flex;
+  flex-wrap: wrap;
+
+  }
+
+  .D5Menu{
+    display: flex;
+    align-items: center;
+    margin-right: 2%;
+    gap:2rem;
+  }
+
+  .D5Menu a{
+    margin-left: 10px;
+   margin-right: 10px;
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 2rem;
+    transition: transform .2s;
+  }
+  .D5Menu a:hover{
+    transform: scale(1.5);
+    color: skyblue;
+  }
+
+.D5logo img{
+  height: 10rem;
+  width: 10rem;
+  transition: transform .2s;
+  }
+
+.D5logo img:hover{
+  transform: scale(1.5);
+  background-color: aqua;
+}
+
+  .D5Profile img{
+    height: 5rem;
+    width: 5rem;
+  }
+
+  .D5Profile img:hover{
+    transform: scale(1.5);
+  }

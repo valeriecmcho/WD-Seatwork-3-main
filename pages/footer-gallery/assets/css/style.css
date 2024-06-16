@@ -1,0 +1,647 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+/* First Design */
+
+.S1{
+    margin-bottom: 3rem;
+    padding: 2rem;
+    background-color: rgb(99, 94, 94);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.S1logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:10px;
+}
+
+.S1logo img{
+    flex-wrap: nowrap;
+    height: 100px;
+    width: 5%;
+}
+
+.S1Menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:2rem;
+}
+
+.S1Menu a{
+    text-decoration: none;
+    font-weight: bolder;
+    color: white;
+
+}
+
+/* Second Design */
+
+.S2{
+margin-bottom: 2%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+background-color: rgb(99, 94, 94);
+align-items: center;
+}
+
+.S2infor{
+    align-items: center;
+}
+
+.S2infor H2{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 5rem;
+}
+
+.S2infor p{
+    font-size: 3rem;
+    text-align: center;
+    padding: 5%;
+}
+
+.S2logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:10px;
+    padding-bottom: 2rem;
+}
+
+.S2logo img{
+    height: 100px;
+    width: 5%;
+}
+
+/* Third Design */
+
+.S3{
+ margin-bottom: 2%;
+    padding: 5% 5% 5% 5%;
+     display: flex;
+     justify-content: space-between;
+     flex-direction: column;
+     gap: 20px;
+     background-color: rgb(99, 94, 94);
+     align-items: center;
+ }
+ .S3 h1{
+    text-align: center;
+    font-size: 4rem;
+    color: white;
+
+ }
+
+ .S3 button{
+    font-size: larger;
+ }
+
+ .S3 h2{
+    text-align: center;
+    font-size: 4rem;
+    color: white;
+
+ }
+ .S3leftFooter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ }
+
+ .S3logos img{
+    background-color: transparent;
+    width: 100px;
+    height: 100px;
+ }
+
+.S3Footer img{
+    display: flex;
+    align-items: center;
+    flex-direction: row ;
+}
+
+ .S3Footer a{
+    display: flex;
+    flex-direction: row ;
+    text-decoration: none;
+ }
+
+ .S3logos{
+    display: flex;
+    flex-direction: row ;
+ }
+
+ .S3leftFooter h2{
+     font-size: 4rem;
+     color: white;
+ }
+
+ .S3leftFooter p{
+     color: white;
+ }
+
+ .S3Footer img{
+     background-color: transparent;
+     width: 100px;
+     height: 100px;
+ }
+
+
+ .S3RightFooter {
+    align-self: center;
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     gap:15px;
+ }
+
+ .S3RightFooter a{
+    display: flex;
+    text-decoration: none;
+    color: white ;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+/* Fourth Design */
+.S4{
+    margin-bottom: 10%;
+    padding: 5% 5% 5%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 20px;
+    background-color: rgb(99, 94, 94);
+}
+
+.leftFooter h1{
+    font-size: 4rem;
+    color: white;
+}
+
+.leftFooter p{
+    color: white;
+}
+.leftFooter a{
+    background-color: rgba(255, 255, 255, 0);
+    text-decoration: none;
+}
+
+.S4 img{
+    background-color: transparent;
+    width: 100px;
+    height: 100px;
+}
+
+
+.RightFooter {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap:15px;
+}
+
+.RightFooter a{
+   display: flex;
+   flex-direction: column;
+   text-decoration: none;
+   color: white ;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.RightFooter2 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap:15px;
+
+}
+
+.RightFooter2 a {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+/* Fifth Design */
+
+.S5{
+    margin-bottom: 10%;
+    padding: 5% 5% 5% 5%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 20px;
+    background-color: rgb(99, 94, 94);
+    align-items: center;
+ }
+
+.S5First{
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+ }
+
+ .S5First h1{
+    color: white;
+    font-size: 4rem;
+
+ }
+
+ .S5First p{
+    color: white;
+    font-size: large;
+ }
+
+ .S5Second{
+    color: white;
+ }
+.S5logos{
+    display: flex;
+    flex-direction: row;
+}
+ .S5 img{
+    background-color: transparent;
+    width: 100px;
+    height: 100px;
+}
+
+.S5RightFooter{
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    gap: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.S5RightFooter a{
+    text-decoration: none;
+    color: white ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* First Dyanamic Design */
+
+.D1{
+    margin-bottom: 3rem;
+    padding: 2rem;
+    background-color: rgb(99, 94, 94);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.D1logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:10px;
+}
+
+.D1logo img{
+    flex-wrap: nowrap;
+    height: 100px;
+    width: 5%;
+  transition: transform .2s;
+}
+
+.D1logo img:hover{
+    transform: scale(1.5);
+}
+
+.D1Menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:2rem;
+}
+
+.D1Menu a{
+    text-decoration: none;
+    font-weight: bolder;
+    color: white;
+    padding: 10px;
+
+}
+
+.D1Menu a:hover{
+background-color: rgb(50, 77, 85);
+padding: 2px;
+}
+
+/* Second Dynamic Design */
+
+.D2{
+    margin-bottom: 2%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(99, 94, 94);
+    align-items: center;
+    }
+
+    .D2infor{
+        align-items: center;
+    }
+
+    .D2infor H2{
+        text-align: center;
+        font-weight: bolder;
+        font-size: 5rem;
+    }
+
+    .D2infor p{
+        font-size: 3rem;
+        text-align: center;
+        padding: 5%;
+    }
+
+    .D2logo {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap:10px;
+        padding-bottom: 2rem;
+    }
+
+    .D2logo img{
+        height: 100px;
+        width: 5%;
+        transition: transform .2s;
+    }
+
+    .D2logo img:hover{
+        transform: scale(1.5);
+    }
+/* Third Dynamic Design */
+
+.D3{
+    margin-bottom: 2%;
+       padding: 5% 5% 5% 5%;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        gap: 20px;
+        background-color: rgb(99, 94, 94);
+        align-items: center;
+    }
+    .D3 h1{
+       text-align: center;
+       font-size: 4rem;
+       color: white;
+   
+    }
+    .D3 button{
+       font-size: larger;
+    }
+
+    .D3 h2{
+       text-align: center;
+       font-size: 4rem;
+       color: white;
+   
+    }
+    .D3leftFooter {
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+    }
+
+    .D3logos img{
+       background-color: transparent;
+       width: 100px;
+       height: 100px;
+       transition: transform .2s;
+    }
+
+   .D3Footer img{
+       display: flex;
+       align-items: center;
+       flex-direction: row ;
+      
+   }
+
+    .D3Footer a{
+       display: flex;
+       flex-direction: row ;
+       text-decoration: none;
+    }
+
+
+    .D3logos{
+       display: flex;
+       flex-direction: row ;
+    }
+
+    .D3leftFooter h2{
+        font-size: 4rem;
+        color: white;
+    }
+
+    .D3leftFooter p{
+        color: white;
+    }
+
+    .D3Footer img{
+        background-color: transparent;
+        width: 100px;
+        height: 100px;
+        transition: transform .2s;
+    }
+
+    .D3logos img:hover{
+        transform: scale(1.5);
+        }
+
+    .D3RightFooter {
+       align-self: center;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap:15px;
+    }
+
+    .D3RightFooter a{
+       display: flex;
+       text-decoration: none;
+       color: white ;
+       font-family: Arial, Helvetica, sans-serif;
+    }
+
+
+    .D3RightFooter a:hover{
+        background-color: rgb(70, 61, 50);
+    }
+
+    .D3RightFooter a:focus{
+        color: rgb(0, 0, 0);
+    }
+
+    .D3 button:hover{
+        font-size: 2rem;
+    }
+/* Fourth Dynamc Design */
+
+.D4{
+    margin-bottom: 10%;
+    padding: 5% 5% 5%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 20px;
+    background-color: rgb(99, 94, 94);
+}
+
+.leftFooter h1{
+    font-size: 4rem;
+    color: white;
+}
+
+.leftFooter p{
+    color: white;
+}
+.leftFooter a{
+    background-color: rgba(255, 255, 255, 0);
+    text-decoration: none;
+}
+
+.D4 img{
+    background-color: transparent;
+    width: 100px;
+    height: 100px;
+    transition: transform .2s;
+}
+
+.D4 img:hover{
+    transform: scale(1.5);
+}
+
+.RightFooter {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap:15px;
+}
+
+.RightFooter a{
+   display: flex;
+   flex-direction: column;
+   text-decoration: none;
+   color: white ;
+   font-family: Arial, Helvetica, sans-serif;
+   transition: transform .2s;
+}
+
+.RightFooter a:hover{
+    transform: scale(1.5);
+    color: black;
+}
+
+.RightFooter a:focus{
+    transform: scale(1.5);
+    color: black;
+}
+.RightFooter2 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap:15px;
+
+}
+
+.RightFooter2 a {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    transition: transform .2s;
+}
+
+.RightFooter2 a:hover{
+    transform: scale(1.5);
+    color: black;
+}
+
+.RightFooter2 a:focus{
+    transform: scale(1.5);
+    color: black;
+}
+/* Fifth Dynamic Design */
+
+.D5{
+    margin-bottom: 10%;
+    padding: 5% 5% 5% 5%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 20px;
+    background-color: rgb(99, 94, 94);
+    align-items: center;
+ }
+
+.D5First{
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+ }
+
+ .D5First h1{
+    color: white;
+    font-size: 4rem;
+
+ }
+
+ .D5First p{
+    color: white;
+    font-size: large;
+ }
+
+ .D5Second{
+    color: white;
+ }
+.D5logos{
+    display: flex;
+    flex-direction: row;
+}
+ .D5 img{
+    background-color: transparent;
+    width: 100px;
+    height: 100px;
+    transition: transform .2s;
+}
+
+
+.D5 img:hover{
+   transform: scale(1.5);
+}
+
+.D5RightFooter{
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    gap: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.D5RightFooter a{
+    text-decoration: none;
+    color: white ;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: transform .2s;
+}
+
+.D5RightFooter a:hover{
+    color: black;
+    transform:scale(1.5)
+}
